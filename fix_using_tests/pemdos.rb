@@ -6,6 +6,7 @@ def snake_it_up(string)
       i = 's'
       i + string
       return string
+    end
   else
     string
   end
