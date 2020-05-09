@@ -5,6 +5,7 @@ def snake_it_up(string)
     for i in range(10)
       i = 's'
       i + string
+      return string
   else
     string
   end
